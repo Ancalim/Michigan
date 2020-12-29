@@ -11,3 +11,5 @@ accum=0
 for w in range(11):   #11 так как последнюю цифру не берет, помним про индексацию.    Можно выполнить так же с указанием диапазона (1:11)
     accum=accum+w
 print(accum)
+
+#checking command "pull"
