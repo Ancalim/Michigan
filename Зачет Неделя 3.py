@@ -66,3 +66,12 @@ for i in s:
     if i in vowels:
         num_vowels += 1
 
+
+
+s= "abcabc"
+x="abc"
+b=0
+for i[0:2] in s:
+    if x in s:
+        b+=1
+
