@@ -29,6 +29,14 @@
 #print(b)
 
 
+a="abcabc"
+
+s=a.split()
+b=0
+for i in s:
+    if i=="abc":
+        b+=1
+print(b)
 
 
 
