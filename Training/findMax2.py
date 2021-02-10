@@ -1,6 +1,6 @@
 l=[-1000,-6000,-8000,-3000,-2000,-500,-20000,-120]
 maxvalue=l[0]
-nextmaxvalue=l[3]
+nextmaxvalue=l[2]
 for findmax in l:
     if findmax>maxvalue:
         maxvalue=findmax
@@ -10,7 +10,3 @@ for nextfindmax in l:
         nextmaxvalue=nextfindmax
 print(maxvalue,nextmaxvalue)
 
-
-
-#for nextfind in l
-#print(maxvalue)
