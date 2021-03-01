@@ -16,3 +16,5 @@ def last_four(x):
         return new_list
 
 sorted_ids=sorted(ids,key=last_four)
+
+#Вопрос закрыт. Переводим в str, так как int не итерабелен
