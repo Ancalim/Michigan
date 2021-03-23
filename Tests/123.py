@@ -6,7 +6,7 @@
 #        print(s[i:i+3])
 
 
-#s= "abcabc"
+#s= "abcab2c"
 #x=s.count("abc")
 
 #print(x)
