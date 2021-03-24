@@ -12,6 +12,7 @@ def replace_first(items: list) -> Iterable:
 
 #Задача сделана верно, но что будет если лист будет забит пробелами? Мы будем переставлять пробелы туда сюда. Это не имеет смысла.
 
+
 if __name__ == '__main__':
     print("Example:")
     print(list(replace_first([1, 2, 3, 4])))

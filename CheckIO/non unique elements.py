@@ -8,10 +8,8 @@ def checkio(data: list) -> list:
         if data.count(i)>1:   #Строка спизжена.  Можно ли решить эту задачу через set?
             newlst.append(i)
     return newlst
-#Some hints
-#You can use list.count(element) method for counting.
-#Create new list with non-unique elements
-#Loop over original list
+
+
 
 
 if __name__ == "__main__":

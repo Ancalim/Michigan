@@ -3,9 +3,9 @@ from typing import Iterable
 
 def remove_all_before(items: list, border: int) -> Iterable:
     for i in range(0,len(items)):   #итерируем ренжу с 0 до количество items
-        if (items[i]==border):  #Если количество итемов равно border, то возвращаем итемы начиная от [i] до бесконечности
+        if (items[i]==border):  #Если количество итемов равно border, то возвращаем итемы начиная от [i] до бесконечности&
             return (items[i:])
-    return items   #зачем второй return?
+    return items
 
 
 
