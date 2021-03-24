@@ -18,8 +18,3 @@ for i in st_ll:
     #print(type(avg))
 
 print(list_answ)
-
-if i not in dd:
-    dd[i] = 1
-else:
-    dd[i]+=1
