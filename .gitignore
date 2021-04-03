@@ -1,0 +1,14 @@
+.idea/
+.idea
+**/.idea/
+.idea/workspace.xml
+.idea/usage.statistic.xml
+.idea/tasks.xml
+. i d e a  
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+venv
+token.ini
